@@ -8,7 +8,11 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "Name": "Bergisch Gladbach",
-        "Bundesland": "Nordrhein-Westfalen"
+        "Bundesland": "Nordrhein-Westfalen",
+        "Twitter": ":(",
+        "WWW": "https://www.bergischgladbach.de",
+        "Geoportal": "https://www.bergischgladbach.de/geoportal.aspx",
+        "OpenDataPortal": ":("
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +63,13 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "Name": "Darmstadt",
-        "Bundesland": "Hessen"
+        "Bundesland": "Hessen",
+        "Twitter": "Stadt_Darmstadt",
+        "WWW": "https://www.darmstadt.de",
+        "Geoportal": "",
+        "OpenDataPortal": "",
+        "Bürgerhaushalt": "https://da-bei.darmstadt.de/page/buergerhaushalt2016_ergebnisse",
+        "Vorhabenliste": "https://da-bei.darmstadt.de/topic/vorhabenliste/"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +120,9 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "Name": "Heidelberg",
-        "Bundesland": "Baden-Württemberg"
+        "Bundesland": "Baden-Württemberg",
+        "Twitter": "heidelberg_de",
+        "WWW": "https://www.heidelberg.de"
       },
       "geometry": {
         "type": "Point",
@@ -128,7 +140,11 @@
         "marker-symbol": "rocket",
         "Name": "Jena",
         "Bundesland": "Thüringen",
-        "CodeForGermany": "https://offenes-jena.de"
+        "CodeForGermany": "https://offenes-jena.de",
+        "Twitter": "jenalichtstadt",
+        "WWW": "https://www.jena.de",
+        "Geoportal": "http://map.jena.de/kartenportal/",
+        "OpenDataPortal": "https://opendata.jena.de"
       },
       "geometry": {
         "type": "Point",
@@ -146,7 +162,9 @@
         "marker-symbol": "rocket",
         "Name": "Karlsruhe",
         "Bundesland": "Baden-Württemberg",
-        "CodeForGermany": "http://codefor.de/karlsruhe/"
+        "CodeForGermany": "http://codefor.de/karlsruhe/",
+        "Twitter": "stadt_karlsruhe",
+        "WWW": "https://www.karlsruhe.de"
       },
       "geometry": {
         "type": "Point",
@@ -163,7 +181,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "Name": "Konstanz",
-        "Bundesland": "Baden-Württemberg"
+        "Bundesland": "Baden-Württemberg",
+        "WWW": "http://www.konstanz.de"
       },
       "geometry": {
         "type": "Point",
@@ -180,7 +199,9 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "Name": "Ludwigsburg",
-        "Bundesland": "Baden-Württemberg"
+        "Bundesland": "Baden-Württemberg",
+        "Twitter": ":(",
+        "WWW": "https://www.ludwigsburg.de"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +235,11 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "Name": "Ratingen",
-        "Bundesland": "Nordrhein-Westfalen"
+        "Bundesland": "Nordrhein-Westfalen",
+        "Twitter": ":(",
+        "WWW": "http://www.stadt-ratingen.de",
+        "Geoportal": "http://www.ratingen-geoportal.de/ratingen/",
+        "OpenDataPortal": ":("
       },
       "geometry": {
         "type": "Point",
