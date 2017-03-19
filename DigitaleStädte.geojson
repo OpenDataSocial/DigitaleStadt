@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f28484",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Bergisch Gladbach",
+        "Bundesland": "Nordrhein-Westfalen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.136111,
+          50.991667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9ef80",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Bremerhaven",
+        "Bundesland": "Bremen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.578039,
+          53.541939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a2dee1",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Cottbus",
+        "Bundesland": "Brandenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.334167,
+          51.760556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e8bb5e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Darmstadt",
+        "Bundesland": "Hessen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65,
+          49.866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a477f7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Göttingen",
+        "Bundesland": "Niedersachsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.935556,
+          51.533889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f28484",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Gütersloh",
+        "Bundesland": "Nordrhein-Westfalen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.383333,
+          51.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7099fa",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Heidelberg",
+        "Bundesland": "Baden-Württemberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71,
+          49.412222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#87c66c",
+        "marker-size": "medium",
+        "marker-symbol": "rocket",
+        "Name": "Jena",
+        "Bundesland": "Thüringen",
+        "CodeForGermany": "https://offenes-jena.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.586361,
+          50.927206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7099fa",
+        "marker-size": "medium",
+        "marker-symbol": "rocket",
+        "Name": "Karlsruhe",
+        "Bundesland": "Baden-Württemberg",
+        "CodeForGermany": "http://codefor.de/karlsruhe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4043,
+          49.014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7099fa",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Konstanz",
+        "Bundesland": "Baden-Württemberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175278,
+          47.663333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7099fa",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Ludwigsburg",
+        "Bundesland": "Baden-Württemberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1922,
+          48.8975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f28484",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Paderborn",
+        "Bundesland": "Nordrhein-Westfalen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.757222,
+          51.719444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f28484",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Ratingen",
+        "Bundesland": "Nordrhein-Westfalen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.852222,
+          51.295556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a477f7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Wolfsburg",
+        "Bundesland": "Niedersachsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.787222,
+          52.423056
+        ]
+      }
+    }
+  ]
+}
